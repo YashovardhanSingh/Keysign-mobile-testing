@@ -30,7 +30,7 @@
     "defaultMessage": "Manage TNB assets, and connect to TNB applications."
   },
   "0l3ebm": {
-    "defaultMessage": "Must be atleast 3 characters!"
+    "defaultMessage": "Must be at least 3 characters!"
   },
   "37OpDn": {
     "defaultMessage": "Select a Bank node"
@@ -198,7 +198,7 @@
     "defaultMessage": "Sync/Import/Export"
   },
   "OZSO9W": {
-    "defaultMessage": "Must be atleast 64 characters!"
+    "defaultMessage": "Must be at least 64 characters!"
   },
   "Olyz0E": {
     "defaultMessage": "Friend with this account number already exists!"
