@@ -78,7 +78,7 @@
     "defaultMessage": "Import"
   },
   "9vkJzM": {
-    "defaultMessage": "Keysign 0.3.6"
+    "defaultMessage": "Keysign 0.0.2"
   },
   "A4nR/Y": {
     "defaultMessage": "Keysign is not liable for this service."
@@ -366,7 +366,7 @@
     "defaultMessage": "To add a new bank, click ADD BANK in dropdown."
   },
   "iC997S": {
-    "defaultMessage": "Add Back"
+    "defaultMessage": "Add Bank"
   },
   "iIX2t1": {
     "defaultMessage": "Unable to select file"
