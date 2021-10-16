@@ -45,7 +45,7 @@
       "defaultMessage": "Abbrechen"
     },
     "4vjdwA": {
-      "defaultMessage": "Syncronisierung erfolgreich"
+      "defaultMessage": "Synchronisierung erfolgreich"
     },
     "5TH8l7": {
       "defaultMessage": "Gehe zu Einstellungen > Sync/Import/Export"
@@ -99,7 +99,7 @@
       "defaultMessage": "INAKTIVITÄTSSPERRE"
     },
     "CRxUr0": {
-      "defaultMessage": "Beim Import werden nur Konten die hier noch nicht existierene hinzugefügt."
+      "defaultMessage": "Beim Import werden nur Konten die hier noch nicht existieren hinzugefügt."
     },
     "CdmEya": {
       "defaultMessage": "Handshake Verifikation"
@@ -162,7 +162,7 @@
       "defaultMessage": "WEITER"
     },
     "Jex29j": {
-      "defaultMessage": "Keysign automatisch bei Inaktivität für eine voreigestellten Zeit sperren."
+      "defaultMessage": "Keysign automatisch bei Inaktivität für eine voreigestellte Zeit sperren."
     },
     "KH/2zQ": {
       "defaultMessage": "Transferiere Guthaben"
@@ -174,7 +174,7 @@
       "defaultMessage": "Freund wählen"
     },
     "LQhIrI": {
-      "defaultMessage": "Es sind nur Nummern und Zeichen erlaubt"
+      "defaultMessage": "Es sind nur Zahlen und Buchstaben erlaubt"
     },
     "LiHQih": {
       "defaultMessage": "In Kürze"
@@ -219,7 +219,7 @@
       "defaultMessage": "Bestätigung"
     },
     "QbCyGW": {
-      "defaultMessage": "Einfach, unkompliziert und sicher. Verbinde, oder erzeuge dein TNB Wallet."
+      "defaultMessage": "Einfach, unkompliziert und sicher. Verbinde, oder erstelle dein TNB Wallet."
     },
     "QiKKFz": {
       "defaultMessage": "Passwort ändern"
@@ -285,7 +285,7 @@
       "defaultMessage": "Wallets wurde erfolgreich exportiert"
     },
     "Yuklh3": {
-      "defaultMessage": "WALLET ERZEUGEN"
+      "defaultMessage": "WALLET ERSTELLEN"
     },
     "Z7oS9I": {
       "defaultMessage": "Kein Wallet"
@@ -294,7 +294,7 @@
       "defaultMessage": "FREUND HINZÜFGEN"
     },
     "Ze/AG8": {
-      "defaultMessage": "ERZEUGEN"
+      "defaultMessage": "ERSTELLEN"
     },
     "ZhHaEw": {
       "defaultMessage": "Zur Kontonummer"
@@ -366,7 +366,7 @@
       "defaultMessage": "Klicke auf BANK HINZUFÜGEN im Dropdownmenü um eine Bank hinzuzufügen."
     },
     "iC997S": {
-      "defaultMessage": "Bank hinzuügen"
+      "defaultMessage": "Bank hinzufügen"
     },
     "iIX2t1": {
       "defaultMessage": "Datei konnte nicht ausgewählt werden"
@@ -459,7 +459,7 @@
       "defaultMessage": "Über Keysign"
     },
     "xQ6aNc": {
-      "defaultMessage": "Passwort erzeugen"
+      "defaultMessage": "Passwort erstellen"
     },
     "xedgjh": {
       "defaultMessage": "Mindestens 12 Zeichen!"
@@ -471,7 +471,7 @@
       "defaultMessage": "Scan konnte nicht erstellt werden"
     },
     "y9dbbX": {
-      "defaultMessage": "PasswortErzeugen"
+      "defaultMessage": "PasswortErstellen"
     },
     "yJgJcp": {
       "defaultMessage": "Keysign ist die beste Möglichkeit auf dein TNB Wallet zuzugrifen."
