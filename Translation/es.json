@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "IMPORTAR LLAVES"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "Bloquea automáticamente el Keysign cuando el dispositivo se bloquea."
+  },
+  "+S3qBX": {
+    "defaultMessage": "Verificar fallida"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "Memorándum (Opcional)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Monto"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW es una comunidad comercial P2P."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign no es propietario de TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "Bloqueo automático"
+  },
+  "0D+jgY": {
+    "defaultMessage": "Administre los activos de TNB y conéctese a las aplicaciones de TNB."
+  },
+  "0l3ebm": {
+    "defaultMessage": "Debe tener al menos 3 caracteres!"
+  },
+  "37OpDn": {
+    "defaultMessage": "Seleccione un nodo de banco"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "y"
+  },
+  "3yk8fB": {
+    "defaultMessage": "Cartera"
+  },
+  "47FYwb": {
+    "defaultMessage": "Cancelar"
+  },
+  "4vjdwA": {
+    "defaultMessage": "Sincronización exitosa"
+  },
+  "5TH8l7": {
+    "defaultMessage": "Ir a la configuración > Sincronizar/Importar/Exportar"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Contraseña"
+  },
+  "62nsdy": {
+    "defaultMessage": "Rever"
+  },
+  "6ERahF": {
+    "defaultMessage": "Desde {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "Monedas bloqueadas"
+  },
+  "8ysmEn": {
+    "defaultMessage": "Abra la billetera de su navegador"
+  },
+  "90axO4": {
+    "defaultMessage": "Comercio"
+  },
+  "9QV9HO": {
+    "defaultMessage": "GESTIONAR TNB"
+  },
+  "9WRlF4": {
+    "defaultMessage": "Enviar"
+  },
+  "9XUYQt": {
+    "defaultMessage": "Importar"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign no se hace responsable de este servicio."
+  },
+  "AYrXQt": {
+    "defaultMessage": "Transferencia exitosa"
+  },
+  "AaKEvg": {
+    "defaultMessage": "No debe superar los 64 caracteres!"
+  },
+  "AyGauy": {
+    "defaultMessage": "Acceso"
+  },
+  "B97E6J": {
+    "defaultMessage": "Haga clic en el botón "Sincronizar móvil""
+  },
+  "Bbkxom": {
+    "defaultMessage": "BLOQUEO DE RALENTÍ"
+  },
+  "CRxUr0": {
+    "defaultMessage": "Al importar, solo se agregarán las cuentas que aún no estén presentes en la instancia."
+  },
+  "CdmEya": {
+    "defaultMessage": "Verificación del apretón de manos"
+  },
+  "CpHRw1": {
+    "defaultMessage": "Transferencia fallida"
+  },
+  "D3idYv": {
+    "defaultMessage": "Ajustes"
+  },
+  "D3rOMr": {
+    "defaultMessage": "Sin datos"
+  },
+  "D5NqQO": {
+    "defaultMessage": "Memorándum"
+  },
+  "DMFF/H": {
+    "defaultMessage": "Sincronización fallida"
+  },
+  "DtYelJ": {
+    "defaultMessage": "Transferir"
+  },
+  "Duy+4J": {
+    "defaultMessage": "Tarifa del validador: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "Nueva contraseña"
+  },
+  "G8KMIa": {
+    "defaultMessage": "Utilice siempre un depósito en garantía, actualmente son gratuitos."
+  },
+  "GAWz1j": {
+    "defaultMessage": "BLOQUEO DEL DISPOSITIVO"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "No debe exceder los 100 caracteres!"
+  },
+  "GretYf": {
+    "defaultMessage": "contraseña actual"
+  },
+  "GseaGh": {
+    "defaultMessage": "Bloquee el Keysign manualmente o cuando la aplicación esté cerrada."
+  },
+  "H4lIvd": {
+    "defaultMessage": "El banco predeterminado lo establece Keysign"
+  },
+  "IPTyRk": {
+    "defaultMessage": "EXPORTAR"
+  },
+  "Icxxne": {
+    "defaultMessage": "Puede exportar todas sus claves cifradas en un archivo. Esto le permitirá importarlos para iniciar sesión en otro dispositivo o simplemente protegerlos."
+  },
+  "IglYTF": {
+    "defaultMessage": "Debe tener al menos 8 caracteres!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "Generar billetera"
+  },
+  "J4N5HW": {
+    "defaultMessage": "SEGUIR"
+  },
+  "Jex29j": {
+    "defaultMessage": "Bloquee automáticamente el Keysign después de que la ventana de la aplicación esté inactiva durante el número especificado de minutos."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "Fondo de transferencia"
+  },
+  "KN7zKn": {
+    "defaultMessage": "Error"
+  },
+  "KqpQmG": {
+    "defaultMessage": "Seleccionar amigo"
+  },
+  "LQhIrI": {
+    "defaultMessage": "Solo se permiten números y letras"
+  },
+  "LiHQih": {
+    "defaultMessage": "Próximamente"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "Borrar todos los datos"
+  },
+  "MEVZgX": {
+    "defaultMessage": "Escanee el código QR para comenzar SYNC"
+  },
+  "MODFAR": {
+    "defaultMessage": "Importar claves"
+  },
+  "NmZvub": {
+    "defaultMessage": "No debe estar vacío"
+  },
+  "O8gaYk": {
+    "defaultMessage": "Enviar escaneo"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sincronizar / Importar / Exportar"
+  },
+  "OZSO9W": {
+    "defaultMessage": "Debe tener al menos 64 caracteres!"
+  },
+  "Olyz0E": {
+    "defaultMessage": "Ya existe un amigo con este número de cuenta!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "Recibido de:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "Escaneo sincronizado"
+  },
+  "PCSt5T": {
+    "defaultMessage": "Preferencias"
+  },
+  "PJE8pF": {
+    "defaultMessage": "Mostrar tarifa"
+  },
+  "Pswssl": {
+    "defaultMessage": "Confirmación"
+  },
+  "QbCyGW": {
+    "defaultMessage": "Sencillo, ligero y seguro. Comience a conectarse o crear su billetera TNB."
+  },
+  "QiKKFz": {
+    "defaultMessage": "Cambia la contraseña"
+  },
+  "QrSVSd": {
+    "defaultMessage": "Transferencia de apretón de manos"
+  },
+  "R/WihK": {
+    "defaultMessage": "ENTREGAR"
+  },
+  "ROlscS": {
+    "defaultMessage": "Agregue su nodo BANCO aquí:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "AHORRAR"
+  },
+  "SVVSmw": {
+    "defaultMessage": "Error de exploración"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "Se proporcionó una contraseña incorrecta"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "AÑADIR BANCO"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blockchain"
+  },
+  "UeNAXN": {
+    "defaultMessage": "Elige lengua"
+  },
+  "VLTmsF": {
+    "defaultMessage": "Aún no hay amigos"
+  },
+  "W47yNx": {
+    "defaultMessage": "Total de monedas"
+  },
+  "WLBY1S": {
+    "defaultMessage": "Administrar amigos"
+  },
+  "WXRfPz": {
+    "defaultMessage": "Pasos para sincronizar sus billeteras"
+  },
+  "XCnG27": {
+    "defaultMessage": "La aplicación móvil Keysign fue creada para trabajar con"
+  },
+  "XMYlZD": {
+    "defaultMessage": "Mi billetera"
+  },
+  "XYtt8J": {
+    "defaultMessage": "Nombre de la billetera"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "Ingrese su contraseña sin nadie alrededor."
+  },
+  "YTIVDO": {
+    "defaultMessage": "Nodo bancario"
+  },
+  "YpQLBX": {
+    "defaultMessage": "Las carteras se han exportado correctamente."
+  },
+  "Yuklh3": {
+    "defaultMessage": "GENERAR CARTERA"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "Sin billetera"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "Agregar amigo"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "GENERAR"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "Al número de cuenta"
+  },
+  "a5msuh": {
+    "defaultMessage": "sí"
+  },
+  "aCVoQT": {
+    "defaultMessage": "Comisión Bancaria: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "Administrar billetera"
+  },
+  "c0vVbD": {
+    "defaultMessage": "INICIAR SESIÓN"
+  },
+  "c2hHXM": {
+    "defaultMessage": "Las carteras se han importado correctamente"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "BORRAR AMIGO"
+  },
+  "ceW3ER": {
+    "defaultMessage": "CONFIRMAR"
+  },
+  "clx9/J": {
+    "defaultMessage": "DEFECTO"
+  },
+  "dChb0Y": {
+    "defaultMessage": "Escanea el código QR"
+  },
+  "djJp6c": {
+    "defaultMessage": "Historia"
+  },
+  "e2W5iK": {
+    "defaultMessage": "Enviar a:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "Hogar"
+  },
+  "fG1IZC": {
+    "defaultMessage": "Inicio Serás enviado a una comunidad de discordia."
+  },
+  "fMaoRo": {
+    "defaultMessage": "¿Estás seguro de que deseas eliminar a este amigo?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "¿Estás seguro de que quieres eliminar esta billetera?"
+  },
+  "gBnpR/": {
+    "defaultMessage": "AppIntro"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Cargando..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "BILLETERA SYNC"
+  },
+  "h/ftND": {
+    "defaultMessage": "Escoge un archivo"
+  },
+  "h2vipu": {
+    "defaultMessage": "Código"
+  },
+  "hHk8xH": {
+    "defaultMessage": "Negociar en TNBCROW"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "Para agregar un nuevo banco, haga clic en AGREGAR BANCO en el menú desplegable."
+  },
+  "iC997S": {
+    "defaultMessage": "Agregar banco"
+  },
+  "iIX2t1": {
+    "defaultMessage": "No se puede seleccionar el archivo"
+  },
+  "iKDTfl": {
+    "defaultMessage": "Nombre del amigo"
+  },
+  "iKt39A": {
+    "defaultMessage": "¿Estás segura de que quieres eliminar este banco?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "BORRAR CARTERA"
+  },
+  "iotsqr": {
+    "defaultMessage": "Verificar exitosa"
+  },
+  "jsy7pk": {
+    "defaultMessage": "Intentar otra vez"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Seleccione"
+  },
+  "l0jKdB": {
+    "defaultMessage": "Agregar amiga"
+  },
+  "lr13V0": {
+    "defaultMessage": "Vete a casa"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "error de inicio de sesion"
+  },
+  "oEli2v": {
+    "defaultMessage": "Fue desarrollado y diseñado por ambos"
+  },
+  "oUWADl": {
+    "defaultMessage": "No"
+  },
+  "orLknm": {
+    "defaultMessage": "Escanear"
+  },
+  "p556q3": {
+    "defaultMessage": "Copiada"
+  },
+  "pb93i7": {
+    "defaultMessage": "NB; Esto no se puede deshacer."
+  },
+  "pvIJw6": {
+    "defaultMessage": "Ambas contraseñas deben coincidir!"
+  },
+  "q4RWBX": {
+    "defaultMessage": "EMPEZAR"
+  },
+  "qZbedW": {
+    "defaultMessage": "Tarifa"
+  },
+  "qp2cDY": {
+    "defaultMessage": "Administrar carteras"
+  },
+  "qzy/q1": {
+    "defaultMessage": "Has olvidado tu contraseña ?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "Si olvidó su contraseña, puede borrar sus datos, pero tendrá que ingresar todas sus claves nuevamente."
+  },
+  "ruJlSX": {
+    "defaultMessage": "SIGUIENTE"
+  },
+  "t401lQ": {
+    "defaultMessage": "IMPORTAR"
+  },
+  "umg69G": {
+    "defaultMessage": "Agregar billetera"
+  },
+  "v3gr+l": {
+    "defaultMessage": "USAR ACCN / SIGNIN"
+  },
+  "vV2G6z": {
+    "defaultMessage": "Número de cuenta"
+  },
+  "vfG+nh": {
+    "defaultMessage": "Confirmar contraseña"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB CARTERA"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Acerca de Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "Crear contraseña"
+  },
+  "xedgjh": {
+    "defaultMessage": "No debe exceder los 12 caracteres!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Éxito"
+  },
+  "xuxczX": {
+    "defaultMessage": "El dispositivo no pudo escanear"
+  },
+  "y9dbbX": {
+    "defaultMessage": "CrearContraseña"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign es la mejor manera de acceder a su billetera TNB en la cadena."
+  },
+  "yc5XUr": {
+    "defaultMessage": "Utilice Acc / Signkey"
+  },
+  "yd1dFh": {
+    "defaultMessage": "Clave de firma"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}
